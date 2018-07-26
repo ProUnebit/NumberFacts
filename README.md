@@ -1,4 +1,4 @@
-## NumberFacts
+## NumberFacts 🔢
 
 ![Project Type](https://preview.ibb.co/kxyG3o/numberfacts.jpg)
 
